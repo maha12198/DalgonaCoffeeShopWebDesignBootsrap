@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Coffee Beans",
+        "description": "Very strong brazilian coffee and very tasty",
+        "image":"../images/menu-1.png"
+    },
+    {
+        "id":2,
+        "name": "Coffee Beans",
+        "description": "Very strong brazilian coffee and very tasty",
+        "image":"../images/menu-2.png"
+    },
+    {
+        "id":3,
+        "name": "Coffee Beans",
+        "description": "Very strong brazilian coffee and very tasty",
+        "image":"../images/menu-3.png"
+    },
+    {
+        "id":4,
+        "name": "Coffee Beans",
+        "description": "Very strong brazilian coffee and very tasty",
+        "image":"../images/menu-4.png"
+    },
+    {
+        "id":5,
+        "name": "Coffee Beans",
+        "description": "Very strong brazilian coffee and very tasty",
+        "image":"../images/menu-5.png"
+    },
+    {
+        "id":6,
+        "name": "Coffee Beans",
+        "description": "Very strong brazilian coffee and very tasty",
+        "image":"../images/menu-6.png"
+    }
+]

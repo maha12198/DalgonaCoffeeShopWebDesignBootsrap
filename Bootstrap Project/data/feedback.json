@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":"Shihab El-Deen",
+        "feedback": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum eos? Perspiciatis expedita laudantium blanditiis cupiditate at natus, quam alias?",
+        "image":"../images/pic-1.png"
+    },
+    {
+        "id": 2,
+        "name":"Hossam Ramadan",
+        "feedback": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum eos? Perspiciatis expedita laudantium blanditiis cupiditate at natus, quam alias?",
+        "image":"../images/pic-2.png"
+    },
+    {
+        "id": 3,
+        "name":"Maha Mahmoud",
+        "feedback": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ipsum eos? Perspiciatis expedita laudantium blanditiis cupiditate at natus, quam alias?",
+        "image":"../images/pic-3.png"
+    }
+]
